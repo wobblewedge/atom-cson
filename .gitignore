@@ -5,6 +5,7 @@
 !.gitignore
 !config.cson
 !README.txt
+!package.list
 
 # ...even if they are in subdirectories
 !*/

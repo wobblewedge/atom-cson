@@ -1,3 +1,16 @@
 "*":
+  core:
+    telemetryConsent: "limited"
+    useTreeSitterParsers: false
+  editor:
+    fontSize: 15
   "exception-reporting":
     userId: "35ab2ce2-5127-465b-8e85-7f89a07dffe0"
+  kite:
+    showWelcomeNotificationOnStartup: false
+  minimap:
+    plugins:
+      "git-diff": true
+      "git-diffDecorationsZIndex": 0
+      "highlight-selected": true
+      "highlight-selectedDecorationsZIndex": 0
